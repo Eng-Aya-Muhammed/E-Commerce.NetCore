@@ -1,0 +1,12 @@
+E:\mvc\MyShop\MyShop.Entities\bin\Debug\net7.0\MyShop.Entities.deps.json
+E:\mvc\MyShop\MyShop.Entities\bin\Debug\net7.0\MyShop.Entities.dll
+E:\mvc\MyShop\MyShop.Entities\bin\Debug\net7.0\MyShop.Entities.pdb
+E:\mvc\MyShop\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.csproj.AssemblyReference.cache
+E:\mvc\MyShop\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\mvc\MyShop\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.AssemblyInfoInputs.cache
+E:\mvc\MyShop\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.AssemblyInfo.cs
+E:\mvc\MyShop\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.csproj.CoreCompileInputs.cache
+E:\mvc\MyShop\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.dll
+E:\mvc\MyShop\MyShop.Entities\obj\Debug\net7.0\refint\MyShop.Entities.dll
+E:\mvc\MyShop\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.pdb
+E:\mvc\MyShop\MyShop.Entities\obj\Debug\net7.0\ref\MyShop.Entities.dll
